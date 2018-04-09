@@ -31,6 +31,7 @@
 	  - The FIND function should be case sensative.
 	  - Your FIND function should return a -1 if the character isn't found.
 	  - Your FIND function should handle an empty string. 
+	  - You no hardcoded string sizes.  This program should work for any string.
 	  - Use human indexed format not C++ indexing.  So the first character is position 1.
 	  - You clean your heap up before you exit the program.  No memory leaks.
 
